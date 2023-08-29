@@ -20,7 +20,7 @@
 
 ## Установка и запуск проекта:
 
-Клонировать репозиторий: `git clone https://github.com/alexkrasyuk24/movies-explorer-api`
+Клонировать репозиторий: `git clone git@github.com:alexkrasyuk24/movies-explorer-api.git`
 
 Установить зависимости: `npm install`
 
@@ -30,8 +30,8 @@
 
 ## Ccылка на Pull requests
 
-
+https://github.com/alexkrasyuk24/movies-explorer-api/pull/1
 
 ## Ccылка на репозиторий
 
-https://github.com/alexkrasyuk24/movies-explorer-api
+https://alexkrasyuk24.github.io/movies-explorer-api/
